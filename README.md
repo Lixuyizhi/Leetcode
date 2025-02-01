@@ -31,11 +31,5 @@
 
 希望这个项目能够为大家提供一些有价值的帮助，也希望能与更多的刷题伙伴一起交流学习。
 
-## 学习资源
-- [LeetCode 讨论区](https://leetcode.com/discuss/)
-- [算法与数据结构学习资源](https://github.com/Algorithms-and-Data-Structures/Algorithms-and-Data-Structures)
-- [《算法导论》](https://book.douban.com/subject/1471743/) —— 一本经典的算法书籍，适合进阶学习
 
-## License
-此项目采用 [MIT License](LICENSE) 开源协议，欢迎大家Fork、Star和贡献代码。
 
